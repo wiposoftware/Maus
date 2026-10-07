@@ -1,0 +1,5 @@
+# MAUS
+## A RC paramotor gondola / pod / harnas / flightsystem
+
+### Miscellaneous parts
+these parts are not mandatory. Depending on your setup these might be usefull
