@@ -61,7 +61,7 @@ By using low profile servors on the bottom the MAUS pod can accomodate battery u
  - Step 10: Connect everything to your RX.<br />
  - Step 11: Insert the lipo.<br />
  - Step 12: Connect battery and power on your electronics, check that everything is working correctly.<br />
- - Step 13: Attach your RC paramotowing , brake lines , speedbar.<br />
+ - Step 13: Attach your RC paramotowing , brake lines , speedbar. [check info on hangbar](6_MISC/README.md) <br />
  - Step 14: Connect prop<br />
  - Step 15: Have a good flight.<br />
 
