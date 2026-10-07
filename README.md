@@ -35,10 +35,23 @@ By using low profile servors on the bottom the MAUS pod can accomodate battery u
 
 <br /><br />
 **Building instructions:** <br />
+<br />
+*Start with 3D printing all the parts* <br />
 - Step 1: [follow instructions for the motor mount](1_MOTOR_MOUNT/README.md) <br />
 - Step 2: [follow instructions for the servo mount](2_SERVO_MOUNT/README.md) <br />
 - Step 3: [follow instructions for the mid section](3_MID_SECTION/README.md) <br />
 - Step 4: [follow instructions for the back section](4_BACK_SECTION/README.md) <br />
 - Step 5: [follow instructions for the front section](5_FRONT_SECTION/README.md) <br />
 - Step 6: [check if you need to print some miscellaneous parts](6_MISC/README.md) <br />
+<br />
 
+*Mount all your electronics* <br />
+ - Step 7: Connect the motor to the esc and insert esc and motor in the backsection of the MUAS gondola. <br />
+ - Step 8: Insert the servos in the servo bays (mid section).<br />
+ - Step 9: Connect servo arms to the servos.<br />
+ - Step 10: Connect everything to your RX.<br />
+ - Step 11: Insert the lipo.<br />
+ - Step 12: Connect battery and power on your electronics, check that everything is working correctly.<br />
+ - Step 13: Attach your RC paramotowing , brake lines , speedbar.<br />
+ - Step 14: Connect prop<br />
+ - Step 15: Have a good flight.<br />
