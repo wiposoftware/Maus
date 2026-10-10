@@ -66,6 +66,10 @@ By using low profile servors on the bottom the MAUS pod can accomodate battery u
  - Step 15: Have a good flight.<br />
 
  <img height="320" alt="maus gondola flying" src="https://github.com/user-attachments/assets/2d853718-ae38-44dc-91f8-7a369be18edc" />
- <img height="320" alt="maus pod flying" src="https://github.com/user-attachments/assets/a39e6f3d-ed1a-40c9-8756-599cbc594f7b" />
+ <img height="320" alt="maus pod flying" src="https://github.com/user-attachments/assets/a39e6f3d-ed1a-40c9-8756-599cbc594f7b" /><br />
+<br />
+video of maiden flight <br />
+
+[![MAUS RC Paramotor pod](https://img.youtube.com/vi/DP0582MmUQU/0.jpg)](https://www.youtube.com/watch?v=DP0582MmUQU)
 
 
